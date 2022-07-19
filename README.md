@@ -1,5 +1,5 @@
 # palíndromo
-Esse programa tem a finalidade de verificar se um número é palindromo de base 2.
+Esse programa tem a finalidade de verificar se um número é palindromo de base 2, acredito que tenha um método mais simples para conseguir atingir o resultado, mas foi oque consegui fazer com o conhecimento que tenho no momento.
 
 O que é um palíndromo?
 
