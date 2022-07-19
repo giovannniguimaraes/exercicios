@@ -1,4 +1,4 @@
-# palindromo
+# palíndromo
 Esse programa tem a finalidade de verificar se um número é palindromo de base 2.
 
 O que é um palíndromo?
